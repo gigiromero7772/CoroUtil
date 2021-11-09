@@ -34,7 +34,7 @@ configurations {
 version = "${config.minecraft_version}-${config.mod_version}"
 
 minecraft {
-    version = "1.12.1-14.22.0.2475"
+    version = "1.14.3 - 27.0.60"
     runDir = "run"
     
     // the mappings can be changed at any time, and must be in the following format.
